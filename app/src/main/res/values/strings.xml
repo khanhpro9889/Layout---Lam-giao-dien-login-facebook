@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ManHinhDangNhapFb</string>
+    <string name="gach_chan">
+        <u>Sign Up for Facebook</u>
+    </string>
+    <string name="login"><b>Log In</b></string>
+    <string name="hint_user">Email or Phone</string>
+    <string name="hint_pass">Password</string>
+</resources>
